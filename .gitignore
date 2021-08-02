@@ -1,0 +1,6 @@
+venv/
+mvenv/
+*/__pycache__/*
+*.un~
+*.pyc
+*__pycache__*
